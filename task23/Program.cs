@@ -18,7 +18,3 @@ Console.WriteLine();
 
 
 
-// int cube = i * i * i;
-// Console.WriteLine(cube);
-
-
